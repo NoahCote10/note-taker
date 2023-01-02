@@ -27,12 +27,3 @@ app.get('*', (req, res) => {
 app.listen(PORT, () =>
   console.log(`Example app listening at http://localhost:${PORT}`)
 );
-
-
-// TO DO:
-// 1. html routes (GET) - /notes to note.html and * to index.html
-// 2. API routes - GET /api/notes reads db.json and all saved notes
-// 2. API routes - POST /api/notes receive new note to save, and to db.json, and return new note
-
-// Bonus - DELETE /api/notes/:id receive query tha contains id of a note to delete.
-// Will need to read all notes in db.json and delete selected id, then rewrite notes to db.json
