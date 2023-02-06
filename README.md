@@ -16,7 +16,7 @@ To use this application, just follow this link:
 ## License <a name="license"></a>
 [For more information about this license click here:](https://choosealicense.com/licenses/mit/) 
 ## Usage <a name="usage"></a>
-This application is for personal use, and jas very limited functionality.
+This application is for personal use, and has very limited functionality.
 ## Contribution <a name="contributing"></a>
 I am not currently accepting contributions at this time.
 ## Testing <a name="tests"></a>
