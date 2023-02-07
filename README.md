@@ -1,4 +1,6 @@
 # Note Taker App
+You can access this application [here](https://shielded-brook-50381.herokuapp.com/).
+![NoteTakerPreview](./assets/NoteTakerPreview.jpg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Table of Contents
 - [Description](#description)
