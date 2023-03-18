@@ -14,7 +14,7 @@ You can access this application [here](https://shielded-brook-50381.herokuapp.co
 ## Description <a name="description"></a>
 This app was designed to generate and edit notes that can be saved and reused in multiple sessions. The purpose of this project was to become familiar with routes, and creating GET, POST, and DELETE requests, and to become familiar with aspects of Express.js.
 ## Installation <a name="installation"></a>
-To use this application, just follow this link:
+To use this application, click [here](https://shielded-brook-50381.herokuapp.com/)
 ## License <a name="license"></a>
 [For more information about this license click here:](https://choosealicense.com/licenses/mit/) 
 ## Usage <a name="usage"></a>
